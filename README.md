@@ -16,7 +16,7 @@ Leve em conta os requisitos:
 * O deploy deve ser realizado preferencialmente na OCI ( Oracle Cloud Infrastructure )
 * A aplicação precisa ter testes automatizados;
 
-Quando finalizar, faça um pull request neste repo e nos avise por [email] (mailto:engenharia@netrin.com.br?subject=C%C3%B3digo%20Desafio%20Netrin&body=Segue%20c%C3%B3digo)
+Quando finalizar, faça um pull request neste repo e nos avise por [email](mailto:engenharia@netrin.com.br?subject=C%C3%B3digo%20Desafio%20Netrin&body=Segue%20c%C3%B3digo)
 
 **IMPORTANTE:** Se você não conseguir terminar o teste por favor nos diga o motivo e descreva quais foram suas principais dificuldades. 
 Claro que você também pode sugerir outra abordagem para avaliarmos seus skilss técnicos, mas é com você para vender seu peixe, mostre-nos do que é capaz!
