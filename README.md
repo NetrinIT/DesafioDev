@@ -1,6 +1,6 @@
 # Desafio para desenvolvedores
 
-**Objetivo:** Construir uma aplicação utilizando framework de sua preferência que deverá conectar retornar raças de cachorro da serviço público 
+**Objetivo:** Construir uma aplicação utilizando framework de sua preferência que deverá retornar raças de cachorro do serviço público 
 [ The Dog API ](https://thedogapi.com/) e ter as seguintes funcionalidades:
 
 * Botão para buscar cachorros
@@ -10,8 +10,8 @@
 Leve em conta os requisitos:
 
 * Deve ser uma aplicação totalmente nova;
-* A solução deve estar um repositório público do github
-* A aplicação deve armazenar as informações encontradas
+* A solução deve estar um repositório público do github;
+* A aplicação deve armazenar as informações encontradas;
 * Utilizar mongoDB, MySQL ou Postgres;
 * O deploy deve ser realizado preferencialmente na OCI ( Oracle Cloud Infrastructure )
 * A aplicação precisa ter testes automatizados;
